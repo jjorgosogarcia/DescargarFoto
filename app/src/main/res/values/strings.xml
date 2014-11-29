@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DescargarFoto</string>
+    <string name="action_settings">Settings</string>
+    <string name="ruta">Please, insert the picture url</string>
+    <string name="tipo">You can´t Download This File Type</string>
+    <string name="guardado">Your picture has been saved successfully</string>
+</resources>

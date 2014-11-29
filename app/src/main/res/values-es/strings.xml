@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ruta">Por favor, introduzca la ruta de una imagen</string>
+    <string name="tipo">No se puede descargar ese tipo de archivos</string>
+    <string name="guardado">Su imagen se ha guardado correctamente</string>
+</resources>
